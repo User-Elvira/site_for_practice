@@ -1,0 +1,1734 @@
+@media (min-width:700px) {
+   
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Gotham Pro';
+    cursor: help;
+}
+
+#m-l-t{
+    margin-left: clamp(6px, 0.781vw, 15px);
+}
+#m-l_links_top{
+    margin-left: clamp(24px, 3.125vw, 60px);
+}
+#m-t-l_for_4_foto{
+    margin-top: clamp(28px, 3.646vw, 70px);
+    margin-left: clamp(64px, 8.333vw, 160px);
+}
+#m-l_between_4_foto{
+    margin-left: clamp(10.8px, 1.406vw, 27px);
+}
+#m-t-l_for_search{
+    margin-top: clamp(60px, 7.813vw, 150px);
+    margin-left: clamp(64px, 8.333vw, 160px);
+}
+#m-l-t_center_1{
+    margin-left: clamp(148.8px, 19.375vw, 372px);
+    margin-top: clamp(78.4px, 10.208vw, 196px);
+}
+#m-l-t_for_center_column{
+    margin-left: clamp(64px, 8.333vw, 160px);
+    margin-top: clamp(50.4px, 6.563vw, 126px);
+}
+#m-l_for_center_between_column{
+    margin-left: clamp(47.2px, 6.146vw, 118px);
+}
+#m-l-t_center_2{
+    margin-left: clamp(233.2px, 30.365vw, 583px);
+    margin-top: clamp(56px, 7.292vw, 140px);
+}
+#m-l-t_3_row{
+    margin-left: clamp(64px, 8.333vw, 160px);
+    margin-top: clamp(46.4px, 6.042vw, 116px);
+}
+#m-r-b_in_row_3_foto{
+    margin-right: clamp(10.8px, 1.406vw, 27px);
+    margin-bottom: clamp(16px, 2.083vw, 40px);
+}
+#m-l-b_rect_name_phone{
+    margin-left: clamp(12px, 1.563vw, 30px);
+    margin-bottom: clamp(4px, 0.521vw, 10px);
+}
+#m-l_review{
+    margin-left: clamp(3.333px, 1.042vw, 20px);
+}
+#m-l-r_center_review{
+    margin-left: clamp(86.4px, 11.25vw, 216px);
+    margin-right: clamp(85.6px, 11.146vw, 214px);
+}
+#m-l-t_all_review{
+    margin-left: clamp(318px, 41.406vw, 795px);
+    margin-top: clamp(43.2px, 5.625vw, 108px);
+}
+#m-l-t_center_3{
+    margin-left: clamp(158px, 20.573vw, 395px);
+    margin-top: clamp(28.333px, 8.854vw, 170px);
+    margin-bottom: clamp(16.667px, 5.208vw, 100px);
+}
+#m-r_n6f_2{
+    margin-right: clamp(14.4px, 1.875vw, 36px);
+}
+#m-t-b_3_foto_text{
+    margin-top: clamp(6.4px, 0.833vw, 16px);
+    margin-bottom: clamp(18.8px, 2.448vw, 47px);
+}
+#m-t-b_betweeb_6_foto{
+    margin-top: clamp(24px, 3.125vw, 60px);
+    margin-bottom: clamp(24px, 3.125vw, 60px);
+}
+#m-l_6_foto{
+    margin-left: clamp(64px, 8.333vw, 160px);
+}
+#m-t_h_checkb{
+    margin-top: clamp(10.4px, 1.354vw, 26px);
+}
+#m-l_between_foto_text{
+    margin-left: clamp(16px, 2.083vw, 40px);
+}
+#m-l-r_new{
+    margin-left: clamp(86.4px, 11.25vw, 216px);
+    margin-right: clamp(85.6px, 11.146vw, 214px);
+}
+#m-l-t_news_blok{
+    margin-left: clamp(83.6px, 10.885vw, 209px);
+    margin-top: clamp(24px, 3.125vw, 60px);
+   
+}
+#m-t-b_holiday{
+    margin-top: clamp(58.8px, 7.656vw, 147px);
+    margin-bottom: clamp(14.8px, 1.927vw, 37px);
+}
+#m-l-t_footer_blok{
+    margin-left: clamp(48px, 6.25vw, 120px);
+    margin-top: clamp(14px, 1.823vw, 35px);
+}
+#m-l-t_foot_teleg{
+    margin-left: clamp(60.8px, 7.917vw, 152px);
+    margin-top: clamp(23.6px, 3.073vw, 59px);
+}
+#m-l-t_foot_inst{
+    margin-left: clamp(6px, 0.781vw, 15px);
+    margin-top: clamp(21.2px, 2.76vw, 53px);
+}
+#m-l-t_foot_time{
+    margin-left: clamp(15.2px, 1.979vw, 38px);
+    margin-top: clamp(21.2px, 2.76vw, 53px);
+}
+#m-l-t_foot_blok_numb{
+    margin-left: clamp(9.6px, 1.25vw, 24px);
+    margin-top: clamp(21.2px, 2.76vw, 53px);
+}
+#m-l-t_foot_links{
+    margin-left: clamp(144px, 18.75vw, 360px);
+    margin-top: clamp(26.4px, 3.438vw, 66px);
+}
+#m-l-r_foot_2link{
+    margin-left: clamp(32px, 4.167vw, 80px);
+    margin-right: clamp(32px, 4.167vw, 80px);
+}
+#m-b_text_h_review{
+    margin-bottom: clamp(10px, 3.125vw, 60px);
+}
+#for_text_underl{
+    text-decoration: underline
+}
+#bg-color{
+    background-color: #fde4d6;
+    border-radius: clamp(5px, 1.563vw, 30px);
+}
+
+
+span#text_H{
+    font-weight: bold;
+    font-size: clamp(21.6px, 2.813vw, 54px);
+}
+span#bold{
+    font-weight: bold;
+}
+span#UP{
+    text-transform: uppercase;
+}
+span#for_center{
+    font-weight: bold;
+    font-size: clamp(16.8px, 2.188vw, 42px);
+}
+
+
+.column_blok{/*/вёрстка сверху вниз/*/
+    display: flex;
+    flex-direction: column;
+}
+.row_blok{/*/вёрстка слева на права/*/
+    display: flex;
+    flex-direction: row;
+}
+.blok{
+    display: flex;
+    flex-direction: row;
+    background-image: url(foto/image\ 2.png);
+    width: 100%;
+}
+.blok1{
+    display: flex;
+    flex-direction: column;
+    margin-top: clamp(23.2px, 3.021vw, 58px); 
+}
+.blok2{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.logo{
+    width: clamp(64px, 8.333vw, 160px);
+    height: clamp(45.716px, 5.953vw, 114.29px);
+    margin-top: clamp(13.2px, 1.719vw, 33px);
+    margin-left: clamp(26px, 3.385vw, 65px);
+}
+.telegram{
+    width: clamp(14px, 1.823vw, 35px);
+    height: clamp(14px, 1.823vw, 35px);
+    
+}
+.inst{
+    width: clamp(18.8px, 2.448vw, 47px);
+    height: clamp(18.8px, 2.448vw, 47px);
+    margin-left: clamp(8px, 1.042vw, 20px);
+}
+.phone_img{
+    width: clamp(14.4px, 1.875vw, 36px);
+    height: clamp(14.4px, 1.875vw, 36px);
+}
+.img_map{
+    width: clamp(8px, 1.042vw, 20px);
+    height: clamp(8px, 1.042vw, 20px);
+    margin-right: clamp(8.392px, 1.093vw, 20.98px);
+    margin-top: clamp(3.5px, 1.094vw, 21px);
+    margin-left: clamp(14px, 1.823vw, 35px);
+}
+.img_calendar{
+    width: clamp(7.9px, 1.029vw, 19.75px);
+    height: clamp(8px, 1.042vw, 20px);
+    margin-right: clamp(8.392px, 1.093vw, 20.98px);
+    margin-top: clamp(8.4px, 1.094vw, 21px);
+    margin-left: clamp(14px, 1.823vw, 35px);
+}
+.img_person{
+    width: clamp(6.22px, 0.81vw, 15.55px);
+    height: clamp(8px, 1.042vw, 20px);
+    margin-right: clamp(8.392px, 1.093vw, 20.98px);
+    margin-top: clamp(8.4px, 1.094vw, 21px);
+    margin-left: clamp(14px, 1.823vw, 35px);
+}
+.img_house{
+    width: clamp(38.724px, 5.042vw, 96.81px);
+    height: clamp(36px, 4.688vw, 90px);
+    margin-left: clamp(68px, 8.854vw, 170px);
+}
+.img_search{
+    width: clamp(102.4px, 13.333vw, 256px);
+    height: clamp(95.6px, 12.448vw, 239px);
+    margin-left: clamp(16px, 2.083vw, 40px);
+}
+.img_review{
+    width: clamp(48px, 6.25vw, 120px);
+    height: clamp(8px, 1.042vw, 20px);
+}
+.img_near_6_foto{
+    width: clamp(8.8px, 1.146vw, 22px);
+    height: clamp(8.8px, 1.146vw, 22px);
+    margin-right: clamp(6.4px, 0.833vw, 16px);
+    margin-top: clamp(3.333px, 1.042vw, 20px);
+}
+.img_6_foto{
+    width: clamp(152px, 19.792vw, 380px);
+    height: clamp(104px, 13.542vw, 260px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    filter: blur(2px);
+}
+.img_6_foto:hover{
+    width: clamp(152px, 19.792vw, 380px);
+    height: clamp(104px, 13.542vw, 260px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    filter: blur(0px);
+}
+.img_up{
+    width: clamp(32px, 4.167vw, 80px);
+    height: clamp(32px, 4.167vw, 80px);
+    margin-left: clamp(80px, 10.417vw, 200px);
+}
+
+
+
+.text_link{
+    text-transform: uppercase;
+    font-size: clamp(6.8px, 0.885vw, 17px);
+    font-weight: bold;
+    font-family: 'Gotham Pro';
+    margin-right: clamp(8px, 1.042vw, 20px);
+}
+.text_time{
+    color: white;
+    font-family: 'Gotham Pro';
+    font-size: clamp(5.6px, 0.729vw, 14px);
+    margin-left: clamp(8px, 1.042vw, 20px);
+    width: clamp(48.8px, 6.354vw, 122px);
+    height: clamp(14.4px, 1.875vw, 36px);
+    text-decoration: underline;
+}
+.text_numbers{
+    color: white;
+    font-family: 'Gotham Pro';
+    font-size: clamp(9.6px, 1.25vw, 24px);
+    font-weight: bold;
+}
+.text_rect_book{
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    color: white;
+    font-family: 'Gotham Pro';
+    margin-left: clamp(15.2px, 1.979vw, 38px);
+    margin-top: clamp(5.6px, 0.729vw, 14px);
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.text_field{
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    font-family: 'Gotham Pro';
+    margin-top: clamp(10px, 1.302vw, 25px);
+}
+.text_H{
+    width: clamp(370px, 48.177vw, 925px);
+    height: clamp(50.8px, 6.615vw, 127px);
+    color: white;
+    font-size: clamp(13.6px, 1.771vw, 34px);
+    font-family: 'Gotham Pro';
+    margin-top: clamp(28px, 3.646vw, 70px); 
+    filter: blur(clamp(0.333px, 0.104vw, 2px));
+}
+.text_H:hover{
+    width: clamp(370px, 48.177vw, 925px);
+    height: clamp(50.8px, 6.615vw, 127px);
+    color: white;
+    font-size: clamp(7.333px, 2.292vw, 44px);
+    font-family: 'Gotham Pro';
+    margin-top: clamp(28px, 3.646vw, 70px); 
+    filter: blur(0px);
+}
+.text_H::first-letter{
+    color: white;
+    font-size: clamp(9px, 2.813vw, 54px);
+    font-family: 'Gotham Pro';
+    text-transform: uppercase;
+    filter: blur(0);
+    text-shadow: clamp(0.833px, 0.26vw, 5px) clamp(0.833px, 0.26vw, 5px)  #f79c0a;
+}
+.text_rect_book_or{
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    color: white;
+    font-family: 'Gotham Pro';
+    
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.text_4_foto_prise{
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    color: white;
+    font-family: 'Gotham Pro';
+    margin-left: clamp(100px, 13.021vw, 250px);
+    margin-top: clamp(10px, 1.302vw, 25px); 
+}
+.text_4_foto_offers{
+    font-size: clamp(7.2px, 0.938vw, 18px);
+    color: white;
+    font-family: 'Gotham Pro';
+    margin-left: clamp(20px, 2.604vw, 50px);
+    margin-top: clamp(62px, 8.073vw, 155px); 
+}
+.text_4_foto_city{
+    font-size: clamp(8.8px, 1.146vw, 22px);
+    color: white;
+    font-family: 'Gotham Pro';
+    margin-left: clamp(20px, 2.604vw, 50px); 
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.text_search_field{
+    font-family: 'Gotham Pro';
+    margin-left: clamp(18.4px, 2.396vw, 46px);
+    margin-top: clamp(9.2px, 1.198vw, 23px); 
+    font-size: clamp(6.4px, 0.833vw, 16px);
+}
+.text_search_button{
+    font-family: 'Gotham Pro';
+    font-weight: bold;
+    margin-left: clamp(44px, 5.729vw, 110px);
+    margin-top: clamp(8.8px, 1.146vw, 22px); 
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    text-transform: uppercase;
+    color: white;
+    font-weight: clamp(280px, 36.458vw, 700px);
+}
+.text_1_center{
+    font-family: 'Gotham Pro';
+    text-align: center;
+    font-size: clamp(14.4px, 1.875vw, 36px);
+    width: clamp(470.4px, 61.25vw, 1176px);
+    height: clamp(50.4px, 6.563vw, 126px);
+}
+.text_h_house{
+    width: clamp(180px, 23.438vw, 450px);
+    height: clamp(28px, 3.646vw, 70px);
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Gotham Pro';
+    font-size: clamp(12.8px, 1.667vw, 32px);
+    margin-top: clamp(20px, 2.604vw, 50px);
+}
+.text_house{
+    width: clamp(180px, 23.438vw, 450px);
+    height: clamp(50.4px, 6.563vw, 126px);
+    text-align: center;
+    font-family: 'Gotham Pro';
+    font-size: clamp(6.4px, 0.833vw, 16px);
+}
+.text_2_center{
+    font-family: 'Gotham Pro';
+    text-align: center;
+    font-size: clamp(14.4px, 1.875vw, 36px);
+    width: clamp(302px, 39.323vw, 755px);
+    height: clamp(49.2px, 6.406vw, 123px);
+}
+.text_sale{
+    font-family: 'Gotham Pro';
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: clamp(11.6px, 1.51vw, 29px);
+    font-size: clamp(7.2px, 0.938vw, 18px);
+}
+.text_offers_3_foto{
+    width: clamp(124px, 16.146vw, 310px);
+    height: clamp(6.4px, 0.833vw, 16px);
+    font-size: clamp(8.8px, 1.146vw, 22px);
+    font-family: 'Gotham Pro';
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: clamp(16px, 2.083vw, 40px);
+    margin-top: clamp(64px, 8.333vw, 160px);
+}
+.text_help{
+    width: clamp(117.6px, 15.313vw, 294px);
+    height: clamp(28px, 3.646vw, 70px);
+    font-size: clamp(9.6px, 1.25vw, 24px);
+    font-family: 'Gotham Pro';
+    font-weight: bold;
+    text-align: center;
+}
+.text_help_text{
+    width: clamp(117.6px, 15.313vw, 294px);
+    height: clamp(44px, 5.729vw, 110px);
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    font-family: 'Gotham Pro';
+    text-align: center;
+}
+.text_find_button{
+    font-family: 'Gotham Pro';
+    font-weight: bold;
+    margin-left: clamp(11.667px, 3.646vw, 70px);
+    margin-top: clamp(8.8px, 1.146vw, 22px); 
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    text-transform: uppercase;
+    color: white;
+    font-weight: clamp(280px, 36.458vw, 700px);
+}
+.text_name_phone{
+    font-family: 'Gotham Pro';
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    color: #B4B4B4;
+   
+    margin-top: clamp(8.4px, 1.094vw, 21px);
+    font-weight: clamp(160px, 20.833vw, 400px);
+}
+.text_h_review{
+    width: clamp(140.4px, 18.281vw, 351px);
+    height: clamp(12px, 1.563vw, 30px);
+    font-family: 'Gilroy';
+    font-weight: clamp(200px, 26.042vw, 500px);
+    font-size: clamp(7.2px, 0.938vw, 18px);
+    line-height: clamp(12px, 1.563vw, 30px);
+    text-shadow: 1px 1px 2px rgb(252, 146, 146), 0 0 1em rgb(130, 130, 250), 0 0 0.2em rgb(130, 130, 250);
+}
+.text_review{
+    width: clamp(140.4px, 18.281vw, 351px);
+    height: clamp(84px, 10.938vw, 210px);
+    font-family: 'Gilroy';
+    font-weight: clamp(200px, 26.042vw, 500px);
+    font-size: clamp(7.2px, 0.938vw, 18px);
+    line-height: clamp(12px, 1.563vw, 30px);
+    margin-top: clamp(17.976px, 2.341vw, 44.94px);
+    margin-bottom: clamp(14.4px, 1.875vw, 36px);
+    text-shadow: clamp(0.833px, 0.26vw, 5px) clamp(0.833px, 0.26vw, 5px) #8bb7e0c9;
+}
+.text_review_button{
+    font-family: 'Gotham Pro';
+    font-weight: bold;
+    margin-left: clamp(36px, 4.688vw, 90px);
+    margin-top: clamp(7.6px, 0.99vw, 19px); 
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    text-transform: uppercase;
+    color: white;
+    font-weight: clamp(280px, 36.458vw, 700px);
+}
+.text_3_center{
+    font-family: 'Gotham Pro';
+    text-align: center;
+    font-size: clamp(14.4px, 1.875vw, 36px);
+    width: clamp(452px, 58.854vw, 1130px);
+    height: clamp(16.667px, 5.208vw, 100px);
+}
+.text_h_6_foto{
+    width: clamp(111.2px, 14.479vw, 278px);
+    height: clamp(6.4px, 0.833vw, 16px);
+    line-height: clamp(6.4px, 0.833vw, 16px);
+    font-size: clamp(8.8px, 1.146vw, 22px);
+    font-weight: bold;
+    font-family: 'Gotham Pro';
+    text-transform: uppercase;
+}
+.text_adress_6_foto{
+    width: clamp(297.2px, 38.698vw, 743px);
+    height: clamp(12px, 1.563vw, 30px);
+    line-height: clamp(12px, 1.563vw, 30px);
+    font-size: clamp(7.2px, 0.938vw, 18px);
+    font-family: 'Gilroy';
+    color: #4DACB8;
+    margin-top: clamp(8px, 1.042vw, 20px);
+    margin-bottom: clamp(8.8px, 1.146vw, 22px);
+}
+.text_6_foto{
+    width: clamp(223.2px, 29.063vw, 558px);
+    height: clamp(22px, 2.865vw, 55px);
+    line-height: clamp(7.2px, 0.938vw, 18px);
+    font-size: clamp(5.6px, 0.729vw, 14px);
+    font-family: 'Gilroy';
+}
+.text_near_6_foto{
+    width: clamp(46px, 5.99vw, 115px);
+    height: clamp(7.2px, 0.938vw, 18px);
+    line-height: clamp(7.2px, 0.938vw, 18px);
+    font-size: clamp(5.6px, 0.729vw, 14px);
+    font-family: 'Gilroy';
+    margin-top: clamp(8px, 1.042vw, 20px);
+}
+.text_near_6_foto_1{
+    width: clamp(13.6px, 1.771vw, 34px);
+    height: clamp(7.2px, 0.938vw, 18px);
+    line-height: clamp(7.2px, 0.938vw, 18px);
+    font-size: clamp(5.6px, 0.729vw, 14px);
+    font-family: 'Gilroy';
+    margin-right: clamp(20.4px, 2.656vw, 51px);
+    margin-top: clamp(8px, 1.042vw, 20px);
+}
+.text_prise{
+    width: clamp(87.2px, 11.354vw, 218px);
+    height: clamp(12px, 1.563vw, 30px);
+    font-size: clamp(7.2px, 0.938vw, 18px);
+    font-weight: clamp(280px, 36.458vw, 700px);
+    font-family: 'Gilroy';
+    line-height: clamp(12px, 1.563vw, 30px);
+}
+.text_more{
+    width: clamp(44px, 5.729vw, 110px);
+    height: clamp(8.8px, 1.146vw, 22px);
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    font-weight: clamp(280px, 36.458vw, 700px);
+    font-weight: bold;
+    font-family: 'Gotham Pro';
+    text-transform: uppercase;
+    line-height: clamp(8.8px, 1.146vw, 22px);
+    color: #FA5B03;
+    margin-top: clamp(4.4px, 0.573vw, 11px);
+    margin-left: clamp(28px, 3.646vw, 70px);
+}
+.text_h_checkb{
+    width: clamp(117.6px, 15.313vw, 294px);
+    height: clamp(20px, 2.604vw, 50px);
+    font-family: 'Gotham Pro';
+    font-size: clamp(8.8px, 1.146vw, 22px);
+    font-weight: bold;
+    line-height: clamp(9.6px, 1.25vw, 24px);
+    color: #131313;
+}
+.text_checkb{
+    width: clamp(49.2px, 6.406vw, 123px);
+    height: clamp(60.8px, 7.917vw, 152px);
+    font-family: 'Gotham Pro';
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    line-height: clamp(15.2px, 1.979vw, 38px);
+}
+.cust_checkbox{ 
+    border: clamp(0.4px, 0.052vw, 1px) solid #E0E0E0;
+    opacity: 60%;
+    accent-color: #FA5B03;
+}
+.text_find2_button{
+    font-family: 'Gotham Pro';
+    font-weight: bold;
+    margin-left: clamp(27.6px, 3.594vw, 69px);
+    margin-top: clamp(7.6px, 0.99vw, 19px); 
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    text-transform: uppercase;
+    color: white;
+    font-weight: clamp(280px, 36.458vw, 700px);
+}
+.text_h_new{
+    width: clamp(140.4px, 18.281vw, 351px);
+    height: clamp(40px, 5.208vw, 100px);
+    font-family: 'Gilroy';
+    font-weight: bold;
+    font-size: clamp(7.2px, 0.938vw, 18px);
+    text-decoration: underline;
+}
+.text_data{
+    width: clamp(140.4px, 18.281vw, 351px);
+    height: clamp(24px, 3.125vw, 60px);
+    font-family: 'Gilroy';
+    font-size: clamp(7.2px, 0.938vw, 18px);
+}
+.text_new{
+    width: clamp(140.4px, 18.281vw, 351px);
+    height: clamp(60px, 7.813vw, 150px);
+    font-family: 'Gilroy';
+    font-size: clamp(7.2px, 0.938vw, 18px);
+}
+.text_holiday{
+    font-size: clamp(5.6px, 0.729vw, 14px);
+    font-family: 'Gotham Pro';
+    margin-left: clamp(88px, 11.458vw, 220px);
+}
+.text_h_direction{
+    font-family: 'Gotham Pro';
+    color: white;
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    font-weight: bold;
+    margin-bottom: clamp(10px, 1.302vw, 25px);
+    text-transform: uppercase;
+}
+.text_direction{
+    font-family: 'Gotham Pro';
+    color: white;
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    line-height: clamp(11.2px, 1.458vw, 28px)
+}
+.text_foot_link{
+    font-size: clamp(5.6px, 0.729vw, 14px);
+    font-family: 'Gotham Pro';
+    text-decoration:underline;
+    color: white;
+}
+.text_foot{
+    font-size: clamp(5.6px, 0.729vw, 14px);
+    font-family: 'Gotham Pro';
+    color: white;
+}
+
+
+
+.rect_foto_Kicl{
+    width: clamp(152px, 19.792vw, 380px);
+    height: clamp(104px, 13.542vw, 260px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    background-image: url(foto/Rectangle\ 5.png);
+}
+.rect_foto_Patig{
+    width: clamp(152px, 19.792vw, 380px);
+    height: clamp(104px, 13.542vw, 260px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    background-image: url(foto/Rectangle\ 10.png);
+}
+.rect_foto_Essen{
+    width: clamp(152px, 19.792vw, 380px);
+    height: clamp(104px, 13.542vw, 260px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    background-image: url(foto/Rectangle\ 11.png);
+}
+.rect_foto_Zelezn{
+    width: clamp(152px, 19.792vw, 380px);
+    height: clamp(104px, 13.542vw, 260px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    background-image: url(foto/Rectangle\ 9.png);
+}
+.rect_book{
+    width: clamp(88px, 11.458vw, 220px);
+    height: clamp(19.2px, 2.5vw, 48px);
+    border-radius: clamp(24px, 3.125vw, 60px);
+    background-color: #4DACB8;
+    margin-top: clamp(4.8px, 0.625vw, 12px);
+}
+.rect_book:hover{
+    width: clamp(88px, 11.458vw, 220px);
+    height: clamp(19.2px, 2.5vw, 48px);
+    border-radius: clamp(24px, 3.125vw, 60px);
+    background-color: #65e2f3;
+    margin-top: clamp(4.8px, 0.625vw, 12px);
+}
+.rect_book_orange{
+    width: clamp(100px, 13.021vw, 250px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    background-image: linear-gradient(to right ,#d24b02, #f1b24d);
+    margin-top: clamp(28px, 3.646vw, 70px);
+}
+.rect_book_orange:hover{
+    width: clamp(100px, 13.021vw, 250px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    background-image: linear-gradient(to left ,#d24b02, #f1b24d);
+    margin-top: clamp(28px, 3.646vw, 70px);
+}
+.rect_field{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: clamp(148px, 19.271vw, 370px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    margin-bottom: clamp(91.6px, 11.927vw, 229px);
+    margin-right: clamp(9.432px, 1.228vw, 23.58px);
+    margin-top: clamp(28px, 3.646vw, 70px);
+    
+}
+.rect_field_inp1{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: clamp(148px, 19.271vw, 370px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    margin-bottom: clamp(91.6px, 11.927vw, 229px);
+    margin-right: clamp(9.432px, 1.228vw, 23.58px);
+    margin-top: clamp(28px, 3.646vw, 70px);
+    padding-left: clamp(6.667px, 2.083vw, 40px);
+    font-family: 'Gotham Pro'; 
+}
+.rect_field_inp2{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: clamp(148px, 19.271vw, 370px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    margin-bottom: clamp(91.6px, 11.927vw, 229px);
+    margin-right: clamp(9.432px, 1.228vw, 23.58px);
+    margin-top: clamp(28px, 3.646vw, 70px);
+    padding-left: clamp(6.667px, 2.083vw, 40px);
+    font-family: 'Gotham Pro'; 
+}
+.rect_field_inp3{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    width: clamp(148px, 19.271vw, 370px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    margin-bottom: clamp(91.6px, 11.927vw, 229px);
+    margin-right: clamp(9.432px, 1.228vw, 23.58px);
+    margin-top: clamp(28px, 3.646vw, 70px);
+    padding-left: clamp(6.667px, 2.083vw, 40px);
+    font-family: 'Gotham Pro'; 
+}
+.img_inp_1{
+    background-image: url('foto/map\ 1.png');
+    background-repeat: no-repeat;
+}
+.rect_search{
+    width: clamp(514px, 66.927vw, 1285px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    border: clamp(0.4px, 0.052vw, 1px) solid #DBDBDB;
+}
+
+.rect_search_button{
+    width: clamp(116.492px, 15.168vw, 291.23px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    background-color: #FA5B03;
+    margin-left: clamp(9.508px, 1.238vw, 23.77px);
+}
+.rect_search_button:hover{
+    width: clamp(116.492px, 15.168vw, 291.23px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    background-color: #f79c0a;
+    margin-left: clamp(9.508px, 1.238vw, 23.77px);
+    border: clamp(0.5px, 0.156vw, 3px) solid #923402;
+}
+.rect_search3_button{
+    width: clamp(43.333px, 13.542vw, 260px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    background-color: #FA5B03;
+    margin-left: clamp(9.508px, 1.238vw, 23.77px);
+}
+.rect_search3_button:hover{
+    width: clamp(43.333px, 13.542vw, 260px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    background-color: #f79c0a;
+    margin-left: clamp(9.508px, 1.238vw, 23.77px);
+    border: clamp(0.5px, 0.156vw, 3px) solid #923402;
+}
+.rect_sale_blue{
+    width: clamp(102.4px, 13.333vw, 256px);
+    height: clamp(11.2px, 1.458vw, 28px);
+    border-radius: 0 clamp(12px, 1.563vw, 30px) 0 clamp(12px, 1.563vw, 30px);
+    background-color: #4DACB8;
+    margin-left: clamp(49.6px, 6.458vw, 124px);
+    padding-top: clamp(4px, 0.521vw, 10px);
+}
+.rect_sale_orange{
+    width: clamp(102.4px, 13.333vw, 256px);
+    height: clamp(11.2px, 1.458vw, 28px);
+    border-radius: 0 clamp(12px, 1.563vw, 30px) 0 clamp(12px, 1.563vw, 30px);
+    background-color: #FA5B03;
+    margin-left: clamp(49.6px, 6.458vw, 124px);
+    padding-top: clamp(4px, 0.521vw, 10px);
+}
+.rect_name_phone{
+    width: clamp(98.8px, 12.865vw, 247px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    border: clamp(0.4px, 0.052vw, 1px) solid #DBDBDB;
+    font-family: 'Gotham Pro';
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    color: #B4B4B4;
+    padding-left: clamp(15.2px, 1.979vw, 38px);
+    margin-top: clamp(8.4px, 1.094vw, 21px)
+}
+.rect_name_phone1{
+    width: clamp(98.8px, 12.865vw, 247px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    border: clamp(0.4px, 0.052vw, 1px) solid #DBDBDB;
+    font-family: 'Gotham Pro';
+    font-size: clamp(6.4px, 0.833vw, 16px);
+    color: #B4B4B4;
+    padding-left: clamp(15.2px, 1.979vw, 38px);
+    margin-top: clamp(8.4px, 1.094vw, 21px)
+}
+.rect_more{
+    width: clamp(100px, 13.021vw, 250px);
+    height: clamp(16px, 2.083vw, 40px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    border: clamp(1.2px, 0.156vw, 3px) solid #FA5B03;
+    margin-left: clamp(35.6px, 4.635vw, 89px);
+}
+
+.rect_search2_button{
+    width: clamp(98.8px, 12.865vw, 247px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    background-color: #FA5B03;
+}
+.rect_search2_button:hover{
+    width: clamp(98.8px, 12.865vw, 247px);
+    height: clamp(24px, 3.125vw, 60px);
+    border-radius: clamp(12px, 1.563vw, 30px);
+    background-color: #f79c0a;
+    border: clamp(0.5px, 0.156vw, 3px) solid #923402;
+}
+.rect_dark_blue{
+    width: clamp(752px, 97.917vw, 1880px);
+    height: clamp(126.8px, 16.51vw, 317px);
+    border-radius: clamp(40px, 5.208vw, 100px) clamp(40px, 5.208vw, 100px) clamp(0px, 0vw, 0px) clamp(0px, 0vw, 0px);
+    background-color: #245257;
+}
+
+
+.swiper{
+    width: clamp(166.667px, 52.083vw, 1000px);
+    height: 100%;
+  }
+  .swiper-slide{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .swiper-slide img{
+    object-fit: cover;
+  }
+  .swiper-button-next, .swiper-rtl .swiper-button-prev{
+    right: clamp(23.333px, 7.292vw, 140px) !important; 
+    left: auto;
+  }
+  .swiper-button-prev, .swiper-rtl .swiper-button-next{
+    left: clamp(23.333px, 7.292vw, 140px) !important; 
+    right: auto;
+  }
+
+
+ 
+
+
+}
+@media (max-width: 700px) {
+    
+    a{
+        text-decoration: none;
+        color: white;
+        font-family: 'Gotham Pro';
+        cursor: help;
+    }
+    
+    #m-l-t{
+        margin-left: clamp(1.5px, 0.469vw, 9px);
+    }
+    #m-l_links_top{
+        margin-left: clamp(6.667px, 2.083vw, 40px);
+    }
+    #m-t-l_for_4_foto{
+        display: none;
+    }
+    #m-l_between_4_foto{
+        display: none;
+    }
+    #m-t-l_for_search{
+        margin-top: clamp(25px, 7.813vw, 150px);
+        margin-left: clamp(26.667px, 8.333vw, 160px);
+    }
+    #m-l-t_center_1{
+        margin-left: clamp(62px, 19.375vw, 372px);
+        margin-top: clamp(32.667px, 10.208vw, 196px);
+    }
+    #m-l-t_for_center_column{
+        margin-left:clamp(3.333px, 1.042vw, 20px);
+        margin-top: clamp(21px, 6.563vw, 126px);
+    }
+    #m-l_for_center_between_column{
+        margin-left: clamp(11.667px, 3.646vw, 70px);
+    }
+    #m-l-t_center_2{
+        margin-left: clamp(97.167px, 30.365vw, 583px);
+        margin-top: clamp(23.333px, 7.292vw, 140px);
+    }
+    #m-l-t_3_row{
+        margin-left: clamp(26.667px, 8.333vw, 160px);
+        margin-top: clamp(19.333px, 6.042vw, 116px);
+    }
+    #m-r-b_in_row_3_foto{
+        margin-right: clamp(4.5px, 1.406vw, 27px);
+        margin-bottom: clamp(6.667px, 2.083vw, 40px);
+    }
+    #m-l-b_rect_name_phone{
+        margin-left: clamp(5px, 1.563vw, 30px);
+        margin-bottom: clamp(1.667px, 0.521vw, 10px);
+    }
+    #m-l_review{
+        margin-left: clamp(21.667px, 6.771vw, 130px);
+    }
+    #m-l-r_center_review{
+        margin-left: clamp(25px, 7.813vw, 150px);
+        margin-right: clamp(25px, 7.813vw, 150px);
+    }
+    #m-l-t_all_review{
+        margin-left: clamp(132.5px, 41.406vw, 795px);
+        margin-top: clamp(18px, 5.625vw, 108px);
+    }
+    #m-l-t_center_3{
+        margin-left: clamp(65.833px, 20.573vw, 395px);
+        margin-top: clamp(20px, 6.25vw, 120px);
+    }
+    #m-r_n6f_2{
+        margin-right:clamp(6px, 1.875vw, 36px);
+    }
+    #m-t-b_3_foto_text{
+        margin-top: clamp(2.667px, 0.833vw, 16px);
+        margin-bottom: clamp(7.833px, 2.448vw, 47px);
+    }
+    #m-t-b_betweeb_6_foto{
+        margin-top: clamp(10px, 3.125vw, 60px);
+        margin-bottom: clamp(10px, 3.125vw, 60px);
+    }
+    #checkl{
+        display: none;
+    }
+    #m-l_6_foto{
+        margin-left: clamp(16.667px, 5.208vw, 100px);
+    }
+    #m-t_h_checkb{
+        margin-top: clamp(4.333px, 1.354vw, 26px);
+    }
+    #m-l_between_foto_text{
+        margin-left: clamp(6.667px, 2.083vw, 40px);
+    }
+    #m-l-r_new{
+        margin-left: clamp(21.667px, 6.771vw, 130px);
+        margin-right: clamp(21.667px, 6.771vw, 130px);
+    }
+    #m-l-t_news_blok{
+        margin-left: clamp(16.667px, 5.208vw, 100px);
+        margin-top: clamp(10px, 3.125vw, 60px);
+    }
+    #m-t-b_holiday{
+        margin-top: clamp(24.5px, 7.656vw, 147px);
+        margin-bottom: clamp(6.167px, 1.927vw, 37px);
+    }
+    #m-l-t_footer_blok{
+        margin-left: clamp(15px, 4.688vw, 90px);
+        margin-top: clamp(5.833px, 1.823vw, 35px);
+    }
+    #m-l-t_foot_teleg{
+        margin-left: clamp(11.667px, 3.646vw, 70px);
+        margin-top: clamp(9.833px, 3.073vw, 59px);
+    }
+    #m-l-t_foot_inst{
+        margin-left: clamp(1.667px, 0.521vw, 10px);
+        margin-top: clamp(8.833px, 2.76vw, 53px);
+    }
+    #m-l-t_foot_time{
+        margin-left: clamp(3.333px, 1.042vw, 20px);
+        margin-top: clamp(8.833px, 2.76vw, 53px);
+    }
+    #m-l-t_foot_blok_numb{
+        margin-left: clamp(4px, 1.25vw, 24px);
+        margin-top: clamp(8.833px, 2.76vw, 53px);
+    }
+    #m-l-t_foot_links{
+        margin-left: clamp(60px, 18.75vw, 360px);
+        margin-top: clamp(11px, 3.438vw, 66px);
+    }
+    #m-l-r_foot_2link{
+        margin-left: clamp(13.333px, 4.167vw, 80px);
+        margin-right: clamp(13.333px, 4.167vw, 80px);
+    }
+    #m-l-rect-s{
+        margin-left: clamp(55px, 17.188vw, 330px);
+    }
+    #m-l-rect-s2{
+        margin-left: clamp(91.667px, 28.646vw, 550px);
+    }
+    #m-l-s{
+        margin-left: clamp(21.667px, 6.771vw, 130px);
+    }
+    #bg-color{
+        background-color: #fde4d6;
+        border-radius: clamp(5px, 1.563vw, 30px);
+    }
+    
+    
+    span#text_H{
+        font-weight: bold;
+        font-size: clamp(9px, 2.813vw, 54px);
+    }
+    span#bold{
+        font-weight: bold;
+    }
+    span#UP{
+        text-transform: uppercase;
+    }
+    span#for_center{
+        font-weight: bold;
+        font-size: clamp(7px, 2.188vw, 42px);
+    }
+    
+    
+    .column_blok{
+        display: flex;
+        flex-direction: column;
+    }
+    .row_blok{
+        display: flex;
+        flex-direction: row;
+    }
+    .blok{
+        display: flex;
+        flex-direction: row;
+        background-image: url(foto/image\ 2.png);
+        width: 100%;
+    }
+    .blok1{
+        display: flex;
+        flex-direction: column;
+        margin-top: clamp(8.333px, 2.604vw, 50px); 
+    }
+    .blok2{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    
+    .logo{
+        width: clamp(33.333px, 10.417vw, 200px);
+        height: clamp(25.715px, 8.036vw, 154.29px);
+        margin-top: clamp(5.5px, 1.719vw, 33px);
+        margin-left: clamp(10.833px, 3.385vw, 65px);
+    }
+    .telegram{
+        width: clamp(8.333px, 2.604vw, 50px);
+        height: clamp(8.333px, 2.604vw, 50px);
+        
+    }
+    .inst{
+        width: clamp(10px, 3.125vw, 60px);
+        height: clamp(10px, 3.125vw, 60px);
+        margin-left: clamp(3.333px, 1.042vw, 20px);
+    }
+    .phone_img{
+        width: clamp(8.333px, 2.604vw, 50px);
+        height: clamp(8.333px, 2.604vw, 50px);
+    }
+    .img_map{
+        width: clamp(3.333px, 1.042vw, 20px);
+        height: clamp(3.333px, 1.042vw, 20px);
+        margin-right: clamp(3.497px, 1.093vw, 20.98px);
+        margin-left: clamp(5.833px, 1.823vw, 35px);
+    }
+    .img_calendar{
+        width: clamp(3.292px, 1.029vw, 19.75px);
+        height: clamp(3.333px, 1.042vw, 20px);
+        margin-right: clamp(3.497px, 1.093vw, 20.98px);
+        
+        margin-left: clamp(5.833px, 1.823vw, 35px);
+    }
+    .img_person{
+        width: clamp(2.592px, 0.81vw, 15.55px);
+        height: clamp(3.333px, 1.042vw, 20px);
+        margin-right: clamp(3.497px, 1.093vw, 20.98px);
+        margin-top: clamp(3.5px, 1.094vw, 21px);
+        margin-left: clamp(5.833px, 1.823vw, 35px);
+    }
+    .img_house{
+        width: clamp(19.468px, 6.084vw, 116.81px);
+        height: clamp(18.333px, 5.729vw, 110px);
+        margin-left: clamp(33.333px, 10.417vw, 200px);
+    }
+    .img_search{
+        width: clamp(42.667px, 13.333vw, 256px);
+        height: clamp(39.833px, 12.448vw, 239px);
+        margin-left: clamp(6.667px, 2.083vw, 40px);
+    }
+    .img_review{
+        width: clamp(20px, 6.25vw, 120px);
+        height: clamp(3.333px, 1.042vw, 20px);
+    }
+    .img_near_6_foto{
+        width: clamp(6.667px, 2.083vw, 40px);
+        height: clamp(6.667px, 2.083vw, 40px);
+        margin-right: clamp(2.667px, 0.833vw, 16px);
+    }
+    .img_6_foto{
+        width: clamp(96.667px, 30.208vw, 580px);
+        height: clamp(76.667px, 23.958vw, 460px);
+        border-radius: clamp(5px, 1.563vw, 30px);
+        filter: blur(2px);
+    }
+    .img_6_foto:hover{
+        width: clamp(96.667px, 30.208vw, 580px);
+        height: clamp(76.667px, 23.958vw, 460px);
+        border-radius: clamp(5px, 1.563vw, 30px);
+        filter: blur(0px);
+    }
+    .img_up{
+        width: clamp(13.333px, 4.167vw, 80px);
+        height: clamp(13.333px, 4.167vw, 80px);
+        margin-left: clamp(25px, 7.813vw, 150px);
+    }
+    
+    
+    
+    
+    .text_link{
+        text-transform: uppercase;
+        font-size: clamp(3.667px, 1.146vw, 22px);
+        font-weight: bold;
+        font-family: 'Gotham Pro';
+        margin-right: clamp(3.333px, 1.042vw, 20px);
+    }
+    .text_time{
+        color: white;
+        font-family: 'Gotham Pro';
+        font-size: clamp(3.667px, 1.146vw, 22px);
+        margin-left: clamp(3.333px, 1.042vw, 20px);
+        width: clamp(33.667px, 10.521vw, 202px);
+        height: clamp(12.667px, 3.958vw, 76px);
+        text-decoration: underline;
+    }
+    .text_numbers{
+        color: white;
+        font-family: 'Gotham Pro';
+        font-size: clamp(4px, 1.25vw, 24px);
+        font-weight: bold;
+        margin-top: clamp(2.5px, 0.781vw, 15px);
+    }
+    .text_rect_book{
+        font-size: clamp(2.667px, 0.833vw, 16px);
+        color: white;
+        font-family: 'Gotham Pro';
+        margin-left: clamp(6.333px, 1.979vw, 38px);
+        margin-top: clamp(2.333px, 0.729vw, 14px);
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    .text_field{
+        font-size: clamp(2.667px, 0.833vw, 16px);
+        font-family: 'Gotham Pro';
+        margin-top: clamp(4.167px, 1.302vw, 25px);
+    }
+    .text_H{
+        width: clamp(154.167px, 48.177vw, 925px);
+        height: clamp(21.167px, 6.615vw, 127px);
+        color: white;
+        font-size: clamp(5.667px, 1.771vw, 34px);
+        font-family: 'Gotham Pro';
+        line-height: clamp(10px, 3.125vw, 60px);
+        filter: blur(clamp(0.667px, 0.208vw, 4px));
+    }
+     
+    .text_H:hover{
+        width: clamp(154.167px, 48.177vw, 925px);
+        height: clamp(21.167px, 6.615vw, 127px);
+        color: white;
+        font-size: clamp(5.667px, 1.771vw, 34px);
+        font-family: 'Gotham Pro';
+        line-height: clamp(10px, 3.125vw, 60px);
+        filter: blur(0px);
+    }
+    .text_H::first-letter{
+        color: white;
+        font-size: clamp(9px, 2.813vw, 54px);
+        font-family: 'Gotham Pro';
+        text-transform: uppercase;
+        filter: blur(0);
+        text-shadow: clamp(0.833px, 0.26vw, 5px) clamp(0.833px, 0.26vw, 5px)  #f79c0a;
+    }
+    .text_rect_book_or{
+        font-size: clamp(2.667px, 0.833vw, 16px);
+        color: white;
+        font-family: 'Gotham Pro';
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    .text_4_foto_prise{
+        font-size: clamp(2.667px, 0.833vw, 16px);
+        color: white;
+        font-family: 'Gotham Pro';
+        margin-left: clamp(41.667px, 13.021vw, 250px);
+        margin-top: clamp(4.167px, 1.302vw, 25px); 
+    }
+    .text_4_foto_offers{
+        font-size: clamp(3px, 0.938vw, 18px);
+        color: white;
+        font-family: 'Gotham Pro';
+        margin-left: clamp(8.333px, 2.604vw, 50px);
+        margin-top: clamp(25.833px, 8.073vw, 155px); 
+    }
+    .text_4_foto_city{
+        font-size: clamp(3.667px, 1.146vw, 22px);
+        color: white;
+        font-family: 'Gotham Pro';
+        margin-left: clamp(8.333px, 2.604vw, 50px); 
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+    .text_search_field{
+        font-family: 'Gotham Pro';
+        margin-left: clamp(7.667px, 2.396vw, 46px);
+        margin-top: clamp(3.833px, 1.198vw, 23px); 
+        font-size: clamp(2.667px, 0.833vw, 16px);
+    }
+    .text_search_button{
+        font-family: 'Gotham Pro';
+        font-weight: bold;
+        margin-left: clamp(18.333px, 5.729vw, 110px);
+        margin-top: clamp(3.667px, 1.146vw, 22px); 
+        font-size: clamp(2.667px, 0.833vw, 16px);
+        text-transform: uppercase;
+        color: white;
+        font-weight: clamp(116.667px, 36.458vw, 700px);
+    }
+    .text_1_center{
+        font-family: 'Gotham Pro';
+        text-align: center;
+        font-size: clamp(6px, 1.875vw, 36px);
+        width: clamp(196px, 61.25vw, 1176px);
+        height: clamp(21px, 6.563vw, 126px);
+    }
+    .text_h_house{
+        width: clamp(91.667px, 28.646vw, 550px);
+        height: clamp(11.667px, 3.646vw, 70px);
+        text-align: center;
+        font-weight: bold;
+        font-family: 'Gotham Pro';
+        font-size: clamp(7px, 2.188vw, 42px);
+        margin-top: clamp(8.333px, 2.604vw, 50px);
+    }
+    .text_house{
+        width: clamp(91.667px, 28.646vw, 550px);
+        height: clamp(21px, 6.563vw, 126px);
+        text-align: center;
+        font-family: 'Gotham Pro';
+        font-size: clamp(4.333px, 1.354vw, 26px);
+    }
+    .text_2_center{
+        font-family: 'Gotham Pro';
+        text-align: center;
+        font-size: clamp(6px, 1.875vw, 36px);
+        width: clamp(125.833px, 39.323vw, 755px);
+        height: clamp(20.5px, 6.406vw, 123px);
+    }
+    .text_sale{
+        font-family: 'Gotham Pro';
+        color: white;
+        text-transform: uppercase;
+        font-weight: bold;
+        margin-left: clamp(4.833px, 1.51vw, 29px);
+        font-size:clamp(4px, 1.25vw, 24px);
+    }
+    .text_offers_3_foto{
+        width: clamp(51.667px, 16.146vw, 310px);
+        height: clamp(2.667px, 0.833vw, 16px);
+        font-size: clamp(3.667px, 1.146vw, 22px);
+        font-family: 'Gotham Pro';
+        color: white;
+        text-transform: uppercase;
+        font-weight: bold;
+        margin-left: clamp(6.667px, 2.083vw, 40px);
+        margin-top: clamp(33.333px, 10.417vw, 200px);
+    }
+    .text_help{
+        width: clamp(75px, 23.438vw, 450px);
+        height: clamp(11.667px, 3.646vw, 70px);
+        font-size: clamp(7.333px, 2.292vw, 44px);
+        font-family: 'Gotham Pro';
+        font-weight: bold;
+        text-align: center;
+    }
+    .text_help_text{
+        width: clamp(75px, 23.438vw, 450px);
+        height: clamp(33.333px, 10.417vw, 200px);
+        font-size: clamp(5.333px, 1.667vw, 32px);
+        font-family: 'Gotham Pro';
+        text-align: center;
+    }
+    .text_find_button{
+        font-family: 'Gotham Pro';
+        font-weight: bold;
+        margin-left: clamp(21.667px, 6.771vw, 130px);
+        margin-top: clamp(3.667px, 1.146vw, 22px); 
+        font-size: clamp(4.333px, 1.354vw, 26px);
+        text-transform: uppercase;
+        color: white;
+        font-weight: clamp(116.667px, 36.458vw, 700px);
+    }
+    .text_name_phone{
+        font-family: 'Gotham Pro';
+        font-size: clamp(4.333px, 1.354vw, 26px);
+        color: #B4B4B4;
+        margin-left: clamp(6.333px, 1.979vw, 38px);
+        margin-top: clamp(3.5px, 1.094vw, 21px);
+        font-weight: clamp(66.667px, 20.833vw, 400px);
+    }
+    .text_h_review{
+        width: clamp(75px, 23.438vw, 450px);
+        height: clamp(5px, 1.563vw, 30px);
+        font-family: 'Gilroy';
+        font-weight: clamp(83.333px, 26.042vw, 500px);
+        font-size: clamp(5.333px, 1.667vw, 32px);
+        line-height: clamp(5px, 1.563vw, 30px);
+        text-shadow: 1px 1px 2px rgb(252, 146, 146), 0 0 1em rgb(130, 130, 250), 0 0 0.2em rgb(130, 130, 250);
+        margin-bottom: clamp(20px, 6.25vw, 120px);
+    }
+    .text_review{
+        width: clamp(75px, 23.438vw, 450px);
+        height:clamp(66.667px, 20.833vw, 400px);
+        font-family: 'Gilroy';
+        font-weight: clamp(83.333px, 26.042vw, 500px);
+        font-size: clamp(5.333px, 1.667vw, 32px);
+        line-height: clamp(5.833px, 1.823vw, 35px);
+        margin-top: clamp(7.49px, 2.341vw, 44.94px);
+        text-shadow: clamp(0.833px, 0.26vw, 5px) clamp(0.833px, 0.26vw, 5px) #8bb7e0c9;
+        
+    }
+    .text_review_button{
+        font-family: 'Gotham Pro';
+        font-weight: bold;
+        margin-left: clamp(10px, 3.125vw, 60px);
+        margin-top: clamp(3.167px, 0.99vw, 19px); 
+        font-size: clamp(4px, 1.25vw, 24px);
+        text-transform: uppercase;
+        color: white;
+        font-weight: clamp(116.667px, 36.458vw, 700px);
+    }
+    .text_3_center{
+        font-family: 'Gotham Pro';
+        text-align: center;
+        font-size: clamp(6px, 1.875vw, 36px);
+        width: clamp(188.333px, 58.854vw, 1130px);
+        height: clamp(20.5px, 6.406vw, 123px);
+    }
+    .text_h_6_foto{
+        width: clamp(116.667px, 36.458vw, 700px);
+        height: clamp(8.333px, 2.604vw, 50px);
+        line-height: clamp(8.333px, 2.604vw, 50px);
+        font-size: clamp(7.333px, 2.292vw, 44px);
+        font-weight: bold;
+        font-family: 'Gotham Pro';
+        text-transform: uppercase;
+    }
+    .text_adress_6_foto{
+        width: clamp(131.667px, 41.146vw, 790px);
+        height: clamp(5px, 1.563vw, 30px);
+        line-height: clamp(8.333px, 2.604vw, 50px);
+        font-size: clamp(6px, 1.875vw, 36px);
+        font-family: 'Gilroy';
+        color: #4DACB8;
+        margin-top: clamp(3.333px, 1.042vw, 20px);
+        margin-bottom: clamp(3.667px, 1.146vw, 22px);
+    }
+    .text_6_foto{
+        width: clamp(183.333px, 57.292vw, 1100px);
+        height: clamp(31.667px, 9.896vw, 190px);
+        line-height: clamp(7.5px, 2.344vw, 45px);
+        font-size: clamp(5.333px, 1.667vw, 32px);
+        font-family: 'Gilroy';
+    }
+    .text_near_6_foto{
+        width: clamp(45px, 14.063vw, 270px);
+        height: clamp(3px, 0.938vw, 18px);
+        line-height: clamp(3px, 0.938vw, 18px);
+        font-size: clamp(5.333px, 1.667vw, 32px);
+        font-family: 'Gilroy';
+        margin-top: clamp(3.333px, 1.042vw, 20px);
+    }
+    .text_near_6_foto_1{
+        width: clamp(15px, 4.688vw, 90px);
+        height: clamp(3px, 0.938vw, 18px);
+        line-height: clamp(3px, 0.938vw, 18px);
+        font-size: clamp(5.333px, 1.667vw, 32px);
+        font-family: 'Gilroy';
+        margin-right: clamp(8.5px, 2.656vw, 51px);
+        margin-top: clamp(3.333px, 1.042vw, 20px);
+    }
+    .text_prise{
+        width: clamp(66.667px, 20.833vw, 400px);
+        height: clamp(5px, 1.563vw, 30px);
+        font-size: clamp(5.333px, 1.667vw, 32px);
+        font-weight: clamp(116.667px, 36.458vw, 700px);
+        font-family: 'Gilroy';
+        line-height: clamp(5px, 1.563vw, 30px);
+    }
+    .text_more{
+        width: clamp(18.333px, 5.729vw, 110px);
+        height: clamp(3.667px, 1.146vw, 22px);
+        font-size: clamp(5.333px, 1.667vw, 32px);
+        font-weight: clamp(116.667px, 36.458vw, 700px);
+        font-weight: bold;
+        font-family: 'Gotham Pro';
+        text-transform: uppercase;
+        line-height: clamp(3.667px, 1.146vw, 22px);
+        color: #FA5B03;
+        margin-top: clamp(2.5px, 0.781vw, 15px);
+        margin-left: clamp(8.333px, 2.604vw, 50px);
+    }
+    .text_h_checkb{
+        width: clamp(49px, 15.313vw, 294px);
+        height: clamp(8.333px, 2.604vw, 50px);
+        font-family: 'Gotham Pro';
+        font-size: clamp(3.667px, 1.146vw, 22px);
+        font-weight: bold;
+        line-height: clamp(4px, 1.25vw, 24px);
+        color: #131313;
+    }
+    .text_checkb{
+        width: clamp(20.5px, 6.406vw, 123px);
+        height: clamp(25.333px, 7.917vw, 152px);
+        font-family: 'Gotham Pro';
+        font-size: clamp(2.667px, 0.833vw, 16px);
+        line-height: clamp(6.333px, 1.979vw, 38px);
+    }
+    .cust_checkbox{ 
+        border: clamp(0.167px, 0.052vw, 1px) solid #E0E0E0;
+        opacity: 60%;
+    }
+    .text_find2_button{
+        font-family: 'Gotham Pro';
+        font-weight: bold;
+        margin-left: clamp(11.5px, 3.594vw, 69px);
+        margin-top: clamp(3.167px, 0.99vw, 19px); 
+        font-size: clamp(2.667px, 0.833vw, 16px);
+        text-transform: uppercase;
+        color: white;
+        font-weight: clamp(116.667px, 36.458vw, 700px);
+    }
+    .text_h_new{
+        width: clamp(75.167px, 23.49vw, 451px);
+        height: clamp(33.333px, 10.417vw, 200px);
+        font-family: 'Gilroy';
+        font-weight: bold;
+        font-size: clamp(5.333px, 1.667vw, 32px);
+        text-decoration: underline;
+    }
+    .text_data{
+        width: clamp(75.167px, 23.49vw, 451px);
+        height: clamp(15px, 4.688vw, 90px);
+        font-family: 'Gilroy';
+        font-size: clamp(5.333px, 1.667vw, 32px);
+    }
+    .text_new{
+        width: clamp(75.167px, 23.49vw, 451px);
+        height: clamp(66.667px, 20.833vw, 400px);
+        font-family: 'Gilroy';
+        font-size: clamp(5.333px, 1.667vw, 32px);
+    }
+    .text_holiday{
+        width: clamp(66.667px, 20.833vw, 400px);
+        font-size: clamp(4px, 1.25vw, 24px);
+        font-family: 'Gotham Pro';
+        margin-left: clamp(16.667px, 5.208vw, 100px);
+    }
+    .text_h_direction{
+        font-family: 'Gotham Pro';
+        color: white;
+        font-size: clamp(3.667px, 1.146vw, 22px);
+        font-weight: bold;
+        margin-bottom: clamp(4.167px, 1.302vw, 25px);
+        text-transform: uppercase;
+    }
+    .text_direction{
+        font-family: 'Gotham Pro';
+        color: white;
+        font-size: clamp(3.667px, 1.146vw, 22px);
+        line-height: clamp(4.667px, 1.458vw, 28px);
+    }
+    .text_foot_link{
+        font-size: clamp(2.333px, 0.729vw, 14px);
+        font-family: 'Gotham Pro';
+        text-decoration:underline;
+        color: white;
+    }
+    .text_foot{
+        font-size: clamp(2.333px, 0.729vw, 14px);
+        font-family: 'Gotham Pro';
+        color: white;
+    }
+    
+    
+    
+    .rect_foto_Kicl{
+        width: clamp(80px, 25vw, 480px);
+        height: clamp(60px, 18.75vw, 360px);
+        border-radius: clamp(13.333px, 4.167vw, 80px);
+        background-image: url(foto/Rectangle\ 5.png);
+    }
+    .rect_foto_Patig{
+        width: clamp(80px, 25vw, 480px);
+        height: clamp(60px, 18.75vw, 360px);
+        border-radius: clamp(13.333px, 4.167vw, 80px);
+        background-image: url(foto/Rectangle\ 10.png);
+    }
+    .rect_foto_Essen{
+        width: clamp(80px, 25vw, 480px);
+        height: clamp(60px, 18.75vw, 360px);
+        border-radius: clamp(13.333px, 4.167vw, 80px);
+        background-image: url(foto/Rectangle\ 11.png);
+    }
+    .rect_foto_Zelezn{
+        width: clamp(80px, 25vw, 480px);
+        height: clamp(60px, 18.75vw, 360px);
+        border-radius: clamp(13.333px, 4.167vw, 80px);
+        background-image: url(foto/Rectangle\ 9.png);
+    }
+    .rect_book{
+        width: clamp(36.667px, 11.458vw, 220px);
+        height: clamp(8px, 2.5vw, 48px);
+        border-radius: clamp(10px, 3.125vw, 60px);
+        background-color: #4DACB8;
+        margin-top: clamp(2px, 0.625vw, 12px);
+    }
+    .rect_book:hover{
+        width: clamp(36.667px, 11.458vw, 220px);
+        height: clamp(8px, 2.5vw, 48px);
+        border-radius: clamp(10px, 3.125vw, 60px);
+        background-color: #65e2f3;
+        margin-top: clamp(4.8px, 0.625vw, 12px);
+    }
+    .rect_book_orange{
+        width: clamp(100px, 13.021vw, 250px);
+        height: clamp(24px, 3.125vw, 60px);
+        border-radius: clamp(12px, 1.563vw, 30px);
+        background-image: linear-gradient(to right ,#d24b02, #f1b24d);
+        margin-bottom: clamp(6.667px, 2.083vw, 40px);
+    
+    }
+    .rect_book_orange:hover{
+        width: clamp(100px, 13.021vw, 250px);
+        height: clamp(24px, 3.125vw, 60px);
+        border-radius: clamp(12px, 1.563vw, 30px);
+        background-image: linear-gradient(to left ,#d24b02, #f1b24d);
+        margin-bottom: clamp(6.667px, 2.083vw, 40px);
+    }
+    .rect_field_inp1{
+        display: flex;
+        flex-direction: row;
+        background-color: white;
+        width: clamp(148px, 19.271vw, 370px);
+        height: clamp(24px, 3.125vw, 60px);
+        border-radius: clamp(12px, 1.563vw, 30px);
+        margin-bottom: clamp(1.667px, 0.521vw, 10px);
+        margin-right: clamp(9.432px, 1.228vw, 23.58px);
+        margin-top: clamp(6.667px, 2.083vw, 40px);
+        padding-left: clamp(6.667px, 2.083vw, 40px);
+        font-family: 'Gotham Pro'; 
+        font-size: clamp(5.667px, 1.771vw, 34px);
+    }
+    .rect_field_inp2{
+        display: flex;
+        flex-direction: row;
+        background-color: white;
+        width: clamp(148px, 19.271vw, 370px);
+        height: clamp(24px, 3.125vw, 60px);
+        border-radius: clamp(12px, 1.563vw, 30px);
+        margin-bottom: clamp(1.667px, 0.521vw, 10px);
+        margin-right: clamp(9.432px, 1.228vw, 23.58px);
+        margin-top: clamp(1.667px, 0.521vw, 10px);
+        padding-left: clamp(6.667px, 2.083vw, 40px);
+        font-family: 'Gotham Pro'; 
+        font-size: clamp(5.667px, 1.771vw, 34px);
+    }
+    .rect_field_inp3{
+        display: flex;
+        flex-direction: row;
+        background-color: white;
+        width: clamp(148px, 19.271vw, 370px);
+        height: clamp(24px, 3.125vw, 60px);
+        border-radius: clamp(12px, 1.563vw, 30px);
+        margin-bottom: clamp(1.667px, 0.521vw, 10px);
+        margin-right: clamp(9.432px, 1.228vw, 23.58px);
+        margin-top: clamp(1.667px, 0.521vw, 10px);
+        padding-left: clamp(6.667px, 2.083vw, 40px);
+        font-family: 'Gotham Pro'; 
+        font-size: clamp(5.667px, 1.771vw, 34px);
+    }
+    .rect_search{
+        width: clamp(214.167px, 66.927vw, 1285px);
+        height: clamp(10px, 3.125vw, 60px);
+        border-radius: clamp(5px, 1.563vw, 30px);
+        border: clamp(0.167px, 0.052vw, 1px) solid #DBDBDB;
+    }
+    .rect_search_button{
+        width: clamp(48.538px, 15.168vw, 291.23px);
+        height: clamp(10px, 3.125vw, 60px);
+        border-radius: clamp(5px, 1.563vw, 30px);
+        background-color: #FA5B03;
+        margin-left: clamp(3.962px, 1.238vw, 23.77px);
+    }
+    
+    .rect_search_button:hover{
+        width: clamp(48.538px, 15.168vw, 291.23px);
+        height: clamp(10px, 3.125vw, 60px);
+        border-radius: clamp(5px, 1.563vw, 30px);
+        background-color: #f79c0a;
+        margin-left: clamp(9.508px, 1.238vw, 23.77px);
+        border: clamp(0.5px, 0.156vw, 3px) solid #923402;
+    }
+    .rect_search3_button{
+        width: clamp(74.5px, 23.281vw, 447px);
+        height: clamp(11.667px, 3.646vw, 70px);
+        border-radius: clamp(6.667px, 2.083vw, 40px);
+        background-color: #FA5B03;
+        margin-left: clamp(3.962px, 1.238vw, 23.77px);
+    }
+    .rect_search3_button:hover{
+        width: clamp(74.5px, 23.281vw, 447px);
+        height: clamp(11.667px, 3.646vw, 70px);
+        border-radius: clamp(6.667px, 2.083vw, 40px);
+        background-color: #f79c0a;
+        margin-left: clamp(3.962px, 1.238vw, 23.77px);
+        border: clamp(0.5px, 0.156vw, 3px) solid #923402;
+    }
+    .rect_sale_blue{
+        width: clamp(59.333px, 18.542vw, 356px);
+        height: clamp(11.667px, 3.646vw, 70px);
+        border-radius: 0 clamp(13.333px, 4.167vw, 80px) 0 clamp(13.333px, 4.167vw, 80px);
+        background-color: #4DACB8;
+        margin-left: clamp(20.667px, 6.458vw, 124px);
+        padding-top: clamp(1.667px, 0.521vw, 10px);
+    }
+    .rect_sale_orange{
+        width: clamp(59.333px, 18.542vw, 356px);
+        height: clamp(11.667px, 3.646vw, 70px);
+        border-radius: 0 clamp(13.333px, 4.167vw, 80px) 0 clamp(13.333px, 4.167vw, 80px);
+        background-color: #FA5B03;
+        margin-left: clamp(20.667px, 6.458vw, 124px);
+        padding-top: clamp(1.667px, 0.521vw, 10px);
+    }
+    .rect_name_phone1{
+        width: clamp(98.8px, 12.865vw, 247px);
+        height: clamp(24px, 3.125vw, 60px);
+        border-radius: clamp(12px, 1.563vw, 30px);
+        border: clamp(0.4px, 0.052vw, 1px) solid #DBDBDB;
+        font-family: 'Gotham Pro';
+        font-size: clamp(6.4px, 0.833vw, 16px);
+        color: #B4B4B4;
+        padding-left: clamp(15.2px, 1.979vw, 38px);
+        margin-top: clamp(8.4px, 1.094vw, 21px)
+    }
+    .rect_name_phone{
+        width: clamp(61.667px, 19.271vw, 370px);
+        height: clamp(11.667px, 3.646vw, 70px);
+        border-radius: clamp(6.667px, 2.083vw, 40px);
+        border: clamp(0.167px, 0.052vw, 1px) solid #DBDBDB;
+        font-family: 'Gotham Pro';
+        font-size: clamp(6.4px, 0.833vw, 16px);
+        color: #B4B4B4;
+        padding-left: clamp(15.2px, 1.979vw, 38px);
+        margin-top: clamp(8.4px, 1.094vw, 21px)
+    }
+    .rect_more{
+        width: clamp(50px, 15.625vw, 300px);
+        height: clamp(9.167px, 2.865vw, 55px);
+        border-radius: clamp(5px, 1.563vw, 30px);
+        border: clamp(0.833px, 0.26vw, 5px) solid #FA5B03;
+        margin-left: clamp(14.833px, 4.635vw, 89px);
+    }
+    .rect_search2_button{
+        width: clamp(41.167px, 12.865vw, 247px);
+        height: clamp(10px, 3.125vw, 60px);
+        border-radius: clamp(5px, 1.563vw, 30px);
+        background-color: #FA5B03;
+    }
+    .rect_dark_blue{
+        width: clamp(305px, 95.313vw, 1830px);
+        height: clamp(52.833px, 16.51vw, 317px);
+        border-radius: clamp(16.667px, 5.208vw, 100px) clamp(16.667px, 5.208vw, 100px) 0 0;
+        background-color: #245257;
+    }
+
+
+    .swiper{
+        width: clamp(166.667px, 52.083vw, 1000px);
+        height: 100%;
+      }
+      .swiper-slide{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .swiper-slide img{
+        object-fit: cover;
+      }
+      .swiper-button-next, .swiper-rtl .swiper-button-prev{
+        right: clamp(23.333px, 7.292vw, 140px) !important; 
+        left: auto;
+      }
+      .swiper-button-prev, .swiper-rtl .swiper-button-next{
+        left: clamp(23.333px, 7.292vw, 140px) !important; 
+        right: auto;
+      }
+
+}
